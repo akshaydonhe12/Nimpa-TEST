@@ -24,7 +24,7 @@ export default function Home() {
       loadAllProduct()
     }, [])
 
-  return (
+return (
     <Base title="Home Page" description="Welcome to the Tshirt Store">
       <div className="row text-center">
         <h1 className="text-white">All of T-shirt</h1>
