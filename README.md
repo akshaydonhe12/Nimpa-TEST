@@ -32,6 +32,8 @@ npm start
 ![Signup-Page](https://user-images.githubusercontent.com/57905927/87007547-10634e00-c1e0-11ea-8939-8ac7109d1cf7.png)
 ![signIn-Page](https://user-images.githubusercontent.com/57905927/87007643-35f05780-c1e0-11ea-8454-7346c474ef8e.png)
 ![AdminDashboard-Page](https://user-images.githubusercontent.com/57905927/87007739-5b7d6100-c1e0-11ea-98c1-a3f272e4c0b7.png)
+![CreateCategory-Page](https://user-images.githubusercontent.com/57905927/87007833-7d76e380-c1e0-11ea-915b-41bac4367e1f.png)
+
 
 
     
