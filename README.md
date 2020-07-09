@@ -35,6 +35,7 @@ npm start
 ![CreateCategory-Page](https://user-images.githubusercontent.com/57905927/87007833-7d76e380-c1e0-11ea-915b-41bac4367e1f.png)
 ![ManageCategories-Page](https://user-images.githubusercontent.com/57905927/87008014-ba42da80-c1e0-11ea-94a9-f72f5ab3b324.png)
 ![AddProduct-Page](https://user-images.githubusercontent.com/57905927/87008100-dba3c680-c1e0-11ea-962f-dea88e82ade7.png)
+![ManageProduct-Page](https://user-images.githubusercontent.com/57905927/87008166-f8d89500-c1e0-11ea-98c2-9dc3b814918e.png)
 
 
 
