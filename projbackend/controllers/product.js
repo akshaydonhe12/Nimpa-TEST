@@ -151,7 +151,9 @@ exports.getAllProducts = (req,res) =>{
     let limit = req.query.limit ? parseInt(req.query.limit) : 8;
     let sortBy = req.query.sortBy ? req.query.sortBy : "_id";
 
-    Product.find()
+
+
+  Product.find()
     .select("-photo")
     .populate("category")
     .sort([[sortBy, "asc"]])
