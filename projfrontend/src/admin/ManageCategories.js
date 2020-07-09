@@ -31,7 +31,7 @@ const ManageCategories = () => {
       </Link>
       <div className="row">
         <div className="col-12">
-          <h2 className="text-center text-white my-3">Total 3 products</h2>
+          <h2 className="text-center text-white my-3">Total  products</h2>
           {categories.map((category, index) => {
             return (
               <h3 className="text-white" key={index}>
@@ -43,6 +43,7 @@ const ManageCategories = () => {
             <div className="col-4">
               <h3 className="text-white text-left">I write code</h3>
             </div>
+            
             <div className="col-4">
               <Link
                 className="btn btn-success"
