@@ -23,7 +23,6 @@ cd backend
 npm install
 
 
-
 # Start server for backend
 npm start
 
