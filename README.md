@@ -33,6 +33,7 @@ npm start
 ![signIn-Page](https://user-images.githubusercontent.com/57905927/87007643-35f05780-c1e0-11ea-8454-7346c474ef8e.png)
 ![AdminDashboard-Page](https://user-images.githubusercontent.com/57905927/87007739-5b7d6100-c1e0-11ea-98c1-a3f272e4c0b7.png)
 ![CreateCategory-Page](https://user-images.githubusercontent.com/57905927/87007833-7d76e380-c1e0-11ea-915b-41bac4367e1f.png)
+![ManageCategories-Page](https://user-images.githubusercontent.com/57905927/87008014-ba42da80-c1e0-11ea-94a9-f72f5ab3b324.png)
 
 
 
